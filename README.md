@@ -10,7 +10,7 @@ Nesse projeto irei analisar uma base de dados que apresenta informações de div
 Você pode fazer o download dos arquivos usados neste projeto ou clonar o repositório usando o comando abaixo:
 
 ```bash
-git clone https://github.com/Marco-Mata-30/Projects-of-Data-Science.git
+git clone https://github.com/Marco-Mata-30/Primeiro-Projeto.git
 ```
 
 Em seguida, execute o código Python após instalar os pré-requisitos.
